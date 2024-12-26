@@ -1,0 +1,117 @@
+.red {
+    background-color: red;
+    color: black;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green {
+    background-color: green;
+    color: black;
+    width: 770px;
+    height: 100px;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ota {
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-color: yellow;
+    color: #000;
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 300px 0px 245px;
+    width: 800px;
+    padding: 0px 18px 0px 52px;
+}
+
+.zidan {
+    display: flex;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+}
+
+.SECTION1 {
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+
+}
+
+.SECTION2 {
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+}
+
+.SECTION3 {
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+}
+.Oybe{
+    display: flex;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+}
+.yashl{
+    background-color: rgb(122, 248, 122);
+    color: black;
+    width: 770px;
+    height: 400px;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    padding: ;
+}
+.jigarang{
+    background-color: red;
+    color: black;
+    width: 100px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    background-color: rgb(106, 106, 240);
+    color: #000;
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 300px 0px 245px;
+    width: 800px;
+    padding: 0px 18px 0px 52px;
+}
